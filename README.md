@@ -1,4 +1,4 @@
-**# SDRAM-Controller-Design**
+
 The goal of this project is to design an SDRAM controller that allows SDRAM memory to be interfaced
 with a microprocessor having only asynchronous memory support. There is no requirement to build the
 hardware, but a complete written report containing schematics and theory of operation is required.
